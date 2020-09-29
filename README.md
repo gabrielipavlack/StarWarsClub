@@ -1,6 +1,5 @@
 # StarWarsClub
 Star Wars Club é uma simples página feita utilizando apenas CSS3 e HTML5 a fim de fixar alguns estudos sobre flexbox.
 
-![alt text](http://url/to/Capturar.PNG)
-
+<img src="Capturar.PNG>
 
