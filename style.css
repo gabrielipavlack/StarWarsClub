@@ -1,0 +1,72 @@
+body {
+font-family: Arial;
+color: black;
+margin: 0;
+background: url(imagens/background.jpg);
+}
+
+
+
+.caixaheader{
+  background: white;
+padding-top: 15px;
+padding-bottom: 15px;
+padding-left: 15px;
+display: flex;
+justify-content:  space-between;
+flex-wrap: wrap;
+
+}
+
+.tituloheader{
+font-size: 20px;
+
+}
+
+.container{
+  
+        display: flex;
+        padding-top: 50px;
+        justify-content: center;
+                align-items: center
+}
+
+.caixa2 {
+width: 800px;
+background: white;
+text-align: center;
+padding-bottom: 70px;
+padding-top: 30px;
+
+
+}
+
+/* No layout dado, o título não parece está usando a tag <h> porque não está em negrito */
+.titulo {
+font-size: 25px;
+}
+
+.botao{
+color: #EFF235;
+background: black;
+padding-top: 20px;
+padding-right: 60px;
+padding-bottom: 20px;
+padding-left: 60px;
+border-radius: 10px;
+text-decoration: none;
+
+}
+
+.caixa3{
+padding-top: 60px;
+}
+
+.imagem{
+height: 30px;
+float: right;
+padding-right: 10px;
+text-align: right;
+
+}
+
